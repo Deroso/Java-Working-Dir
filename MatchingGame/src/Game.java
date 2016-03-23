@@ -47,7 +47,7 @@ public class Game extends Application{
 	static GridPane gPane = new GridPane();
 	StackPane sPane = new StackPane();
 	static GamePiece[] array = new GamePiece[4];
-	static int score = 60000;
+	static int score = 60001;
 	Label timer = new Label("Timer Timey"); 
 	static Label scoreDisplay = new Label("Score : 10500");
 	
